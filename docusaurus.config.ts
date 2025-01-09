@@ -52,6 +52,7 @@ const config: Config = {
         { to: "/news", label: "Newsletter", position: "left", target: "_blank", },
         { to: "/faq", label: "FAQ", position: "left" },
         { to: "/hub", label: "The Hub", position: "left", target: "_blank", },
+        { to: "/eggsNest", label: "Eggs Nest", position: "left", target: "_blank", },
         { to: "/github", position: "right", className: "github-link", target: "_blank", },
         { to: "/discord", position: "right", className: "discord-link", target: "_blank", },
       ],
